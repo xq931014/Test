@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //merge测试
-    //merge没成功啊
+    //修改一下
 }
 
 
