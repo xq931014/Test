@@ -36,5 +36,10 @@
     
 }
 
+#pragma mark - 测试类1
+- (void)test1 {
+    
+}
+
 
 @end
